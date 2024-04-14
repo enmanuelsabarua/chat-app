@@ -5,7 +5,6 @@ import Conversation from "./Conversation";
 
 const Conversations = () => {
     const { loading, conversations } = useGetConversations();
-    console.log("Conversations: ", conversations);
 
     return (
         <div className="flex flex-col py-2 overflow-auto">
