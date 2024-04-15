@@ -2,6 +2,9 @@
 
 Welcome to ChatApp! This is a real-time chat application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with Socket.io for enabling real-time communication. With ChatApp, users can create accounts and engage in instant messaging with others in real-time.
 
+<img src="https://github.com/enmanuelsabarua/chat-app/assets/88289379/ef24a24a-3455-411c-a9c5-7e56a8ac3429" alt="drawing" style="width:450px;"/>
+<img src="https://github.com/enmanuelsabarua/chat-app/assets/88289379/437b4545-0c77-4e99-8c0a-a02666aa164c" alt="drawing" style="width:450px;"/>
+
 ## Features
 
 1. **User Authentication**: Users can create accounts securely using email and password authentication. Once logged in, they can access the chat features.
@@ -50,5 +53,9 @@ To run ChatApp locally, follow these steps:
 2. **Chat**: Once logged in, you can start chatting with other users who are online.
 3. **View Chat History**: Access chat history to view previous conversations.
 4. **Logout**: Logout from your account when done.
+
+## Deployment
+
+The app is deployed on Render. You can access the live application [here](https://chat-app-dg2j.onrender.com/).
 
 Thank you for using ChatApp! We hope you enjoy seamless real-time communication with your friends and colleagues.
